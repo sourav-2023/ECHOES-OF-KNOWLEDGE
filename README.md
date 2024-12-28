@@ -17,7 +17,7 @@ Stores badge metadata including problem details
 Prevents duplicate badges for the same problem
 Allows fetching user's completion history
 
-#Future Plans
+# Future Plans
 Provide AI-driven study plans for a fee, utilizing user performance data and NFT achievements.
 Offer premium access to vetted learning resources (e.g., eBooks, video courses) relevant to your problem domains.
 
